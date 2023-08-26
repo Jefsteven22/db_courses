@@ -70,7 +70,7 @@ ALTER TABLE "teachers_courses" ADD FOREIGN KEY ("teacher_id") REFERENCES "teache
 
 INSERT INTO categories (name)
 VALUES 
-('Fundamentos'),
+('Fundamentals'),
 ('React.js'),
 ('Node.js');
 
